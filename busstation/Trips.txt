@@ -1,0 +1,6 @@
+b6 alex aswan 963 Ahmed 15 20 D 30 900 
+V6 tanzania congo 356 Aly 5 9 s 30 200 
+B9 Italy JAPAN 123 Mohamed 19 23 d 30 1200 
+M6 a b 669 Ahmed 12 13 d 28 50 
+
+
